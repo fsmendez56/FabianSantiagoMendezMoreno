@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679161296 source:c:\users\santiago\documents\fabiansantiagomendezmoreno\main.cpp
+	<iostream>
+	<ctime>
+	<locale>
+	<windows.h>
+	<cmath>
+
